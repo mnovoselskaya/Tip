@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Tip
 //
-//  Created by Vladimir Novoselskiy on 5/22/19.
+//  Created by Maria Novoselskaya on 5/22/19.
 //  Copyright © 2019 Maria Novoselskaya. All rights reserved.
 //
 
