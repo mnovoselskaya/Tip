@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    //These are my variables that will used in the future
     
     @IBOutlet weak var total_label: UILabel!
     
@@ -31,7 +32,8 @@ class ViewController: UIViewController {
     @IBAction func onTap(_ sender: Any) {
         
         view.endEditing(true)    }
-
+    
+//This here will calculate the tip based on the tip percentage and the bill amount
     @IBAction func calculate(_ sender: Any) {
         
         let tipPercentage = [0.18,0.20,0.25]
